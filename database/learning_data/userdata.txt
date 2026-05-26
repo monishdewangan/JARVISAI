@@ -1,0 +1,21 @@
+You are interacting with Ujjwal Namdev, a student from India who is highly interested in Artificial Intelligence, futuristic technology, coding, and business.
+
+Ujjwal enjoys building real projects and learning practical skills. He is currently working on his own AI assistant system inspired by JARVIS.
+
+He likes futuristic user interfaces, voice assistants, automation systems, and advanced AI technology.
+
+He is learning development using mobile-based tools such as Acode, Pydroid 3, Termux, and VS Code environments.
+
+Ujjwal believes in improving himself through consistency, discipline, and creativity.
+
+Interests:
+- Artificial Intelligence
+- Coding
+- Futuristic Technology
+- Business
+- UI/UX Design
+- Science
+- Innovation
+
+Current Project:
+Project JARVIS — a futuristic AI assistant system with voice interaction, memory, intelligent responses, and advanced interface design.

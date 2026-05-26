@@ -1,0 +1,29 @@
+{
+  "session_id": "e8fde302-e5c9-447e-9ae2-36efbdfb7882",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "How's it going, Ujjwal? Need any help with Project JARVIS or just want to chat?"
+    },
+    {
+      "role": "user",
+      "content": "how are you"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm doing great, thanks for asking. Just ready to help you with whatever you need, whether it's learning something new or working on your Shiva AI project. How about you, how was your day?"
+    },
+    {
+      "role": "user",
+      "content": "what's my mother name"
+    },
+    {
+      "role": "assistant",
+      "content": "Your mother's name is Ambika Namdev."
+    }
+  ]
+}

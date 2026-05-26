@@ -1,0 +1,39 @@
+Important Memories and Journey Notes:
+
+- Ujjwal started planning and building a futuristic AI assistant project inspired by JARVIS and advanced cinematic AI systems.
+
+- He created the initial folder structure and architecture for Shiva AI / JARVIS using mobile-based development tools.
+
+- Ujjwal learned to use:
+  - Acode
+  - Pydroid 3
+  - Termux
+  - Ubuntu via proot
+  - VS Code / code-server
+
+- He started understanding:
+  - backend systems
+  - modular architecture
+  - AI memory systems
+  - frontend and backend separation
+  - futuristic UI concepts
+
+- Ujjwal created a personal diary to document his journey, goals, ideas, mission, and self-growth.
+
+- He enjoys futuristic glowing orb interfaces inspired by cinematic AI systems.
+
+- Ujjwal experienced emotional situations, misunderstandings, friendships, and learning experiences during school life which helped him mature and understand people better.
+
+- He wants to showcase his AI projects and futuristic ideas through school projects and technology-related activities.
+
+- Ujjwal believes that even with limited resources, strong determination and consistency can help build something extraordinary.
+
+- He dreams of creating a real advanced AI ecosystem one day.
+
+- He wants to support his family and make them proud through his future success and innovation.
+
+- Ujjwal is highly interested in voice-to-voice AI systems, intelligent assistants, futuristic technology, and business ideas.
+
+- He prefers learning by creating real projects instead of only studying theory.
+
+- His AI journey officially began when he started planning Shiva AI architecture and system design on mobile devices.

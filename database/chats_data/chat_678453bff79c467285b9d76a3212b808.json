@@ -1,0 +1,13 @@
+{
+  "session_id": "678453bf-f79c-4672-85b9-d76a3212b808",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "How's it going, Ujjwal? Need any help with something or just want to chat?"
+    }
+  ]
+}

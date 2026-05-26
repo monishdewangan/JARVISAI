@@ -1,0 +1,82 @@
+Parents:
+
+Mother:
+- Name: Ambika Namdev
+- Nature:
+  Caring, emotional, hardworking, and deeply supportive.
+
+Father:
+- Name: Ishwar Namdev
+- Nature:
+  Calm, responsible, and supportive.
+
+Paternal Grandparents:
+- Grandfather: Kishan Lal Namdev
+- Grandmother: Pushpa Namdev
+
+Maternal Grandparents:
+- Grandfather: Rajkumar Sen
+- Grandmother: Kampina Sen
+
+Bua Side Family:
+
+Maya Bua
+- Husband: Sumit Namdev
+- Children:
+  - Swayam
+    - Class: 8
+    - Date of Birth: 14 May 2013
+    - Age: 13
+  - Pari
+
+Chhaya Bua
+- Husband: Jugnu Namdev
+- Children:
+  - Vidhi
+  - Vinayak
+
+Bharati Bua
+- Husband: Pravin Kausal
+- Children:
+  - Vedic
+  - Mishthi
+
+Ranu Bua (also called Aarti)
+- Husband: Rupesh Kuldeep
+- Children:
+  - Shivam
+    - Class: 7
+    - Date of Birth: 27 February 2014
+    - Age: 12
+
+  - Naiya
+    - Class: 4
+    - Year of Birth: 2016
+    - Birthday: 6 October
+    - Age: 10
+
+Nani Side Family:
+
+Kamu Sen (Badi Mummy)
+- Husband: Pulesh Sen
+- Children:
+  - Bhawna
+  - Renuka
+  - Jagriti
+
+Mama:
+- Roshan Sen
+
+Extended Family:
+
+Dai:
+- Ramotin Bhandari
+
+Ashok Bhandari Family:
+- Wife: Kumari Bhandari
+- Children:
+  - Aarti Bhandari
+  - Sonu Bhandari
+
+Family Importance:
+Family is emotionally important to Ujjwal. He wants to become successful, support his family, and make them proud through his future achievements and technology projects.
